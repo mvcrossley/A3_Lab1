@@ -1,0 +1,22 @@
+﻿Lab Assignment Requirements
+==============================Add AJAX functionality to a working branch; push it to your repo:
+
+
+7. Make the AJAX part functional (retrieve the data, populate the elements)
+
+
+
+8. Add, commit and push your changes back to the GitHub repo
+
+
+
+9. DO NOT merge your changes remotely
+
+And send me the link to your repo via FOL
+
+
+
+GRADING BREAKDOWN
+=====================
+
+There isn’t one. Pass/Fail. Worth marks, so do your best.
