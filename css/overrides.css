@@ -87,8 +87,14 @@ nav > div > i {
 
 #cars { width:80%; position: relative; margin: 0 auto; top:330px; opacity:0; }
 
-.thumbInfo img { cursor: pointer; transition: all .6s; } /*, .mainContainer img*/
+.thumbInfo img { opacity: .5; cursor: pointer; transition: all .6s; } /*, .mainContainer img*/
 .thumbInfo img { width: 175px; }
+.thumbInfo img:hover { opacity: 1;}
+
+.fullOpacity
+{
+	opacity: 1;
+}
 
 .modelDesc, .subM { margin-bottom: 0; }
 .subM { margin-top: 20px; }
